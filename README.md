@@ -105,9 +105,9 @@ indieforge/
 | # | Milestone | Target Date | Status |
 |---|-----------|-------------|--------|
 | M0 | Project setup + niche research complete | May 14, 2026 | ✅ Done |
-| M1 | Sub-niche selection + keyword map | May 18, 2026 | 🟡 In Progress |
-| M2 | Site scaffolding (Next.js/Astro) | May 25, 2026 | ⬜ Pending |
-| M3 | First 5 articles published | Jun 8, 2026 | ⬜ Pending |
+| M1 | Sub-niche selection + keyword map | May 15, 2026 | ✅ Complete |
+| M2 | Site scaffolding (Next.js/Astro) | May 15, 2026 | ✅ Complete |
+| M3 | First 5 articles published | Jun 8, 2026 | 🟡 In Progress (Article #1 written + site rendering ready) |
 | M4 | Google Search Console indexed | Jun 15, 2026 | ⬜ Pending |
 | M5 | First affiliate revenue earned | Jul 1, 2026 | ⬜ Pending |
 | M6 | 500+ monthly visitors | Jul 31, 2026 | ⬜ Pending |
